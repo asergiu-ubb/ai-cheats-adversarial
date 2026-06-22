@@ -16,8 +16,8 @@ AI-driven visual cheats in competitive gaming—such as aimbots built on real-ti
 ## 🎮 Characters Dataset
 
 The multi-game benchmark dataset containing **10,000 annotated images** across CS2, Rust, Marvel Rivals, and Apex is hosted at:
-👉 **[Dataset Repository & Project Page]([https://www.kaggle.com/datasets/tudorileni/ingamecharactersdetection-appex-cs2-marvel-rust])**
-
+👉 **[Dataset Repository & Project Page](https://www.kaggle.com/datasets/tudorileni/ingamecharactersdetection-appex-cs2-marvel-rust)**
+,
 Each game contributes approximately 2,500 samples captured under diverse environmental conditions (actions, times of day, indoor/outdoor contexts) annotated with bounding boxes around visible game characters in YOLO format.
 
 ---
