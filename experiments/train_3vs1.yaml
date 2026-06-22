@@ -1,0 +1,13 @@
+nc: 1
+test:
+ - /data/image_databases/adversarialAttack/cs2_640/valid
+ - /data/image_databases/adversarialAttack/apex_640/valid
+ - /data/image_databases/adversarialAttack/marvel_640/valid
+train:
+ - /data/image_databases/adversarialAttack/cs2_640/train
+ - /data/image_databases/adversarialAttack/apex_640/train
+ - /data/image_databases/adversarialAttack/marvel_640/train
+val:
+ - /data/image_databases/adversarialAttack/cs2_640/valid
+ - /data/image_databases/adversarialAttack/apex_640/valid
+ - /data/image_databases/adversarialAttack/marvel_640/valid

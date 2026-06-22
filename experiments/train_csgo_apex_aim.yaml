@@ -1,0 +1,14 @@
+nc: 1
+names: ['Person']
+test:
+ - /data/image_databases/adversarialAttack/CSGO/test
+ - /data/image_databases/adversarialAttack/apex/test
+ - /data/image_databases/adversarialAttack/aim/test
+train:
+ - /data/image_databases/adversarialAttack/CSGO/train/
+ - /data/image_databases/adversarialAttack/apex/train/
+ - /data/image_databases/adversarialAttack/aim/train/
+val:
+ - /data/image_databases/adversarialAttack/CSGO/valid
+ - /data/image_databases/adversarialAttack/apex/valid
+ - /data/image_databases/adversarialAttack/aim/valid

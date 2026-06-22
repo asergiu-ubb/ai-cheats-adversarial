@@ -1,0 +1,4 @@
+nc: 1
+test: /data/image_databases/adversarialAttack/dataset/all_640/valid
+train: /data/image_databases/adversarialAttack/dataset/all_640/train
+val: /data/image_databases/adversarialAttack/dataset/all_640/valid
